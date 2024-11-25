@@ -15,10 +15,10 @@ App Video -> https://drive.google.com/file/d/13H3HcUH_aHHs9v3MR3zWTFzMscPpTw5y/v
 * Watch Trailers
   
 # Screenshots
-<img src="assets/screenshots/screen1.jpeg" alt="1" width="300">  <img src="assets/screenshots/screen2.jpeg" alt="2" width="300">
+<img src="assets/screenshots/screen1.jpeg" alt="1" width="300">         <img src="assets/screenshots/screen2.jpeg" alt="2" width="300">
 
-<img src="assets/screenshots/screen3.jpeg" alt="3" width="300">
-<img src="assets/screenshots/screen4.jpeg" alt="4" width="300">
+<img src="assets/screenshots/screen3.jpeg" alt="3" width="300">         <img src="assets/screenshots/screen4.jpeg" alt="4" width="300">
+
 <img src="assets/screenshots/screen5.jpeg" alt="5" width="300">
 
 
