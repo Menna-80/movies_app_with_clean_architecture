@@ -15,8 +15,12 @@ App Video -> https://drive.google.com/file/d/13H3HcUH_aHHs9v3MR3zWTFzMscPpTw5y/v
 * Watch Trailers
 # Screenshots
 ![1](assets/screenshots/screen1.jpeg)
-
-
+<img src="assets/screenshots/screen1.jpeg" alt="1" width="500">
+![2](assets/screenshots/screen2.jpeg)
+<img src="assets/screenshots/screen2.jpeg" alt="2" width="500">
+![3](assets/screenshots/screen3.jpeg)
+![4](assets/screenshots/screen4.jpeg)
+![5](assets/screenshots/screen5.jpeg)
 # Packages 
 * [cached_network_image](https://pub.dev/packages/cached_network_image)
 * [carousel_slider](https://pub.dev/packages/carousel_slider)
