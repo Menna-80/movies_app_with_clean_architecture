@@ -14,15 +14,11 @@ App Video -> https://drive.google.com/file/d/13H3HcUH_aHHs9v3MR3zWTFzMscPpTw5y/v
 * Similar movies
 * Watch Trailers
 # Screenshots
-![1](assets/screenshots/screen1.jpeg)
+
 <img src="assets/screenshots/screen1.jpeg" alt="1" width="400">
-![2](assets/screenshots/screen2.jpeg)
 <img src="assets/screenshots/screen2.jpeg" alt="2" width="400">
-![3](assets/screenshots/screen3.jpeg)
 <img src="assets/screenshots/screen3.jpeg" alt="3" width="400">
-![4](assets/screenshots/screen4.jpeg)
 <img src="assets/screenshots/screen4.jpeg" alt="4" width="400">
-![5](assets/screenshots/screen5.jpeg)
 <img src="assets/screenshots/screen5.jpeg" alt="5" width="400">
 # Packages 
 * [cached_network_image](https://pub.dev/packages/cached_network_image)
