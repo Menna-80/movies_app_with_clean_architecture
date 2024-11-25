@@ -14,19 +14,19 @@ App Video -> https://drive.google.com/file/d/13H3HcUH_aHHs9v3MR3zWTFzMscPpTw5y/v
 * Similar movies
 * Watch Trailers
 # Screenshots
-(https://github.com/user-attachments/assets/04bd95f7-5773-4f8a-adbd-ac0fb7761e2d)
+
 
 
 # Packages 
-cached_network_image
-carousel_slider
-dartz
-dio
-equatable
-flutter_bloc
-get_it
-hive
-hive_flutter
-conditional_builder_null_safety
-path_provider
-youtube_player_flutter
+* [cached_network_image](https://pub.dev/packages/cached_network_image)
+* [carousel_slider](https://pub.dev/packages/carousel_slider)
+* [dartz](https://pub.dev/packages/dartz)
+* dio
+* equatable
+* flutter_bloc
+* get_it
+* hive
+* hive_flutter
+* conditional_builder_null_safety
+* path_provider
+* youtube_player_flutter
