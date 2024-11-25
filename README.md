@@ -14,7 +14,7 @@ App Video -> https://drive.google.com/file/d/13H3HcUH_aHHs9v3MR3zWTFzMscPpTw5y/v
 * Similar movies
 * Watch Trailers
 # Screenshots
-
+[](assets/screenshots/screen1.jpeg)
 
 
 # Packages 
