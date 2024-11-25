@@ -47,11 +47,6 @@ MoviesState copyWith({
       topRatedMovies: topRatedMovies??this.topRatedMovies,
       topRatedmessage: topRatedmessage??this.topRatedmessage,
       topRatedState: topRatedState??this.topRatedState,
-
-
-
-
-
   );
 }
   @override
